@@ -1,0 +1,11 @@
+.img-perfil{
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    border: 1px solid;
+    color: black;
+}
+
+body{
+    text-align: center;
+}
